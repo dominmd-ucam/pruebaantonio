@@ -9,8 +9,6 @@ public class Examen {
 	        carrito.agregarItem(item1);
 	        carrito.agregarItem(item2);
 	        carrito.imprimirDetalle();
-
-			System.out.println("Hola me llamo CARLOS");
 	    }
 	}
 
